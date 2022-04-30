@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @arvisetp
 - 👀 I’m interested in Data analytics and aviation
-- 🌱 I’m currently learning PostgreSQL, VueJS
-- 📫 How to reach me pierre.arviset__at__mailo.com
+- 🌱 I’m currently learning React and CouchDB
 
 <!---
 arvisetp/arvisetp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
